@@ -5,3 +5,6 @@ const App = () => {
 }
 
 export default App
+const Prueba = () =>{
+  <button>Prueba</button>
+}
